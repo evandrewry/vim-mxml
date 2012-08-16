@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.mxml set filetype=mxml
+au BufRead,BufNewFile *.mxml set ft=mxml
