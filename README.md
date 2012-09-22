@@ -8,4 +8,4 @@ You can just clone the repo inside your ~/.vim/bundle and then load everything u
 
 Problems?
 ---------
-Too bad :( but you can always create an issue :)
+Too bad :(
