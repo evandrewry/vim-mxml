@@ -1,6 +1,6 @@
 vim-mxml
 ================
-This is a simple mirror from the excellent mxml.vim file made by [Abdul Qabiz](http://www.abdulqabiz.com/blog/archives/2007/10/12/vim-actionscript-and-mxml-syntax-files/)!
+This is a mirror from the mxml.vim file made by [Abdul Qabiz](http://www.abdulqabiz.com/blog/archives/2007/10/12/vim-actionscript-and-mxml-syntax-files/)!
 
 Usage
 -----
@@ -8,4 +8,4 @@ You can just clone the repo inside your ~/.vim/bundle and then load everything u
 
 Problems?
 ---------
-Too bad :( but you can always create an issue :)
+Too bad
